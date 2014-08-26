@@ -1,7 +1,7 @@
 package com.test;
 
 //Las chicas superpoderosas son???
-//R: INSERTE RESPUESTA ACÁ.
+//R: Bombón, burbuja y bellota.
 
 public class Person{
 	private int age;
