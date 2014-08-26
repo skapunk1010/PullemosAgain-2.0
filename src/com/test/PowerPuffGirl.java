@@ -1,6 +1,5 @@
 package com.test;
 
-import com.test.Person;
 
 public class PowerPuffGirl extends Person{
 
