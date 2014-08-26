@@ -20,6 +20,10 @@ public class Person{
 		this.lastName = l;
 	}
 
+	public Person(String n){
+		this(n,"","",0);
+	}
+
 	public int getAge(){
 		return age;
 	}
