@@ -4,7 +4,11 @@ package com.test;
 //R: Pos' una combinación de azucar, flores y muchos colores :v
 
 //¿A quién se le perdió la cadenita?
+<<<<<<< HEAD
+//R: Pues a Carrrrmen.
+=======
 //R: A caaaaaaarmeen!(8)
+>>>>>>> 5486c5933f89bd4555699166243e296bab2f3c10
 
 
 public class Person{
