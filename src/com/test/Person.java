@@ -3,6 +3,9 @@ package com.test;
 //Las chicas superpoderosas son???
 //R: Pos' una combinación de azucar, flores y muchos colores :v
 
+//¿A quién se le perdió la cadenita?
+//R: 
+
 
 public class Person{
 	private int age;
